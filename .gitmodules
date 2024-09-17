@@ -4,3 +4,6 @@
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/wakeuplabs-io/iden3-contracts.git
+[submodule "sdk-examples-js"]
+	path = sdk-examples-js
+	url = https://github.com/wakeuplabs-io/privadoid-js-sdk-examples.git
