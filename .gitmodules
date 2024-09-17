@@ -1,0 +1,6 @@
+[submodule "issuer-node"]
+	path = issuer-node
+	url = https://github.com/wakeuplabs-io/issuer-node.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/wakeuplabs-io/iden3-contracts.git
