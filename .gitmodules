@@ -1,6 +1,6 @@
 [submodule "issuer-node"]
 	path = issuer-node
-	url = https://github.com/wakeuplabs-io/issuer-node.git
+	url = https://github.com/wakeuplabs-io/opid-issuer-node.git
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/wakeuplabs-io/opid-contracts.git
@@ -9,7 +9,7 @@
 	url = https://github.com/wakeuplabs-io/opid-contracts-examples.git
 [submodule "js-sdk"]
 	path = js-sdk
-	url = https://github.com/wakeuplabs-io/privadoid-js-sdk.git
+	url = https://github.com/wakeuplabs-io/opid-sdk
 [submodule "examples/js-sdk"]
 	path = examples/js-sdk
 	url = https://github.com/wakeuplabs-io/opid-sdk-examples.git
