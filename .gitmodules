@@ -13,3 +13,6 @@
 [submodule "examples/js-sdk"]
 	path = examples/js-sdk
 	url = https://github.com/wakeuplabs-io/privadoid-js-sdk-examples.git
+[submodule "examples/demo"]
+	path = examples/demo
+	url = https://github.com/wakeuplabs-io/opid-demo.git
