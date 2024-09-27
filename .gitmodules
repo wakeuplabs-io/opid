@@ -3,16 +3,16 @@
 	url = https://github.com/wakeuplabs-io/issuer-node.git
 [submodule "contracts"]
 	path = contracts
-	url = https://github.com/wakeuplabs-io/iden3-contracts.git
+	url = https://github.com/wakeuplabs-io/opid-contracts.git
 [submodule "examples/contracts"]
 	path = examples/contracts
-	url = https://github.com/wakeuplabs-io/privado-id-contracts-examples.git
+	url = https://github.com/wakeuplabs-io/opid-contracts-examples.git
 [submodule "js-sdk"]
 	path = js-sdk
 	url = https://github.com/wakeuplabs-io/privadoid-js-sdk.git
 [submodule "examples/js-sdk"]
 	path = examples/js-sdk
-	url = https://github.com/wakeuplabs-io/privadoid-js-sdk-examples.git
+	url = https://github.com/wakeuplabs-io/opid-sdk-examples.git
 [submodule "examples/demo"]
 	path = examples/demo
 	url = https://github.com/wakeuplabs-io/opid-demo.git
