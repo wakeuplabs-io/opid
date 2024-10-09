@@ -19,3 +19,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/wakeuplabs-io/opid-docs.git
+[submodule "method"]
+	path = method
+	url = https://github.com/wakeuplabs-io/opid-method-spec.git
