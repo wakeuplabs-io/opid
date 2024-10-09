@@ -16,3 +16,6 @@
 [submodule "examples/demo"]
 	path = examples/demo
 	url = https://github.com/wakeuplabs-io/opid-demo.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/wakeuplabs-io/opid-docs.git
