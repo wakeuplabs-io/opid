@@ -22,3 +22,6 @@
 [submodule "method"]
 	path = method
 	url = https://github.com/wakeuplabs-io/opid-method-spec.git
+[submodule "issuer-node-gcp"]
+	path = issuer-node-gcp
+	url = https://github.com/wakeuplabs-io/opid-issuer-gcloud
