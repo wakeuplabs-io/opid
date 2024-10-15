@@ -27,4 +27,4 @@
 	url = https://github.com/wakeuplabs-io/opid-issuer-gcloud
 [submodule "rhs"]
 	path = rhs
-	url = https://github.com/wakeuplabs-io/opid-rhs
+	url = https://github.com/wakeuplabs-io/opid-rhs.git
