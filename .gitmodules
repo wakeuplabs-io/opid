@@ -25,3 +25,6 @@
 [submodule "rhs"]
 	path = rhs
 	url = https://github.com/wakeuplabs-io/opid-rhs.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/wakeuplabs-io/opid-documentation
