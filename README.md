@@ -3,6 +3,8 @@
 
 Collection of repositories that allow for privadoid to run on optimism.
 
+[Learn more about Optimism Id](https://github.com/wakeuplabs-io/opid-documentation)
+
 ## Repo overview
 
 This repo is a collection of repos, mostly forks of privadoid and iden3, that allow to run an identity system in the optimism chain. We'll mention each of them and shortly explain what you can find there:
@@ -35,3 +37,6 @@ There's no particular documentation regarding how to add contracts as preinstall
 - [contracts-bedrock/scripts/SetPreinstalls.s.sol](https://github.com/ethereum-optimism/optimism/blob/develop/packages/contracts-bedrock/scripts/SetPreinstalls.s.sol)
 
 We believe incorporating Iden3 contracts adapted for optimism as pre-installs will have a positive impact in allowing developers easily create identity based applications in any optimism-stacked based chain with minimal effort.
+
+
+
