@@ -20,7 +20,7 @@ This repo is a collection of repos, mostly forks of privadoid and iden3, that al
 - method: This repository contains the `did:opid` DID Method Specification.
 
 
-## Opstack integration proposition
+## OP Stack integration proposition
 
 In this section we'll propose a way for the optimism chains created with opstack can benefit from the identity sdk out of the box and with minimal effort.
 
